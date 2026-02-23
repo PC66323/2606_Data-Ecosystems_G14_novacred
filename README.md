@@ -18,6 +18,6 @@ We will audit the credit application dataset to identify:
 
 ## Team Members
 - Philipp Connert (66323) - 
-- [Name] – [Role]
+- Xavier Albino (56363) – [Role]
 - [Name] – [Role]
 - [Name] – [Role]
