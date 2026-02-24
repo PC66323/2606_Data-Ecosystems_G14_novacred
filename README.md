@@ -17,7 +17,7 @@ We will audit the credit application dataset to identify:
 - EU AI Act (High-Risk AI: Credit Scoring)
 
 ## Team Members
-- Philipp Connert (66323) - 
-- Xavier Albino (56363) – [Role]
-- [Name] – [Role]
+- Philipp Connert (66323) - Product Lead
+- Xavier Albino (56363) – Data SCientist
+- Amgirus Murali (75373) – Governance Officer
 - [Name] – [Role]
