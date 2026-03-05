@@ -18,6 +18,6 @@ We will audit the credit application dataset to identify:
 
 ## Team Members
 - Philipp Connert (66323) - Product Lead
-- Xavier Albino (56363) – Data SCientist
+- Xavier Albino (56363) – Data Scientist
 - Amgirus Murali (75373) – Governance Officer
-- [Name] – [Role]
+- Othmane Chadi (70269) – Data Engineer
