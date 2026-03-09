@@ -2,7 +2,7 @@
 
 > **DEGO 2606 - Data Ecosystems and Governance in Organizations**  
 > MSc Business Analytics | Nova SBE  
-> Group Project: Credit Application Governance Analysis
+> Group 14 – Credit Application Governance Analysis
 
 ## Table of Contents
 
@@ -15,6 +15,7 @@
 7. [Privacy Assessment](#privacy-assessment)
 8. [Governance Recommendations](#governance-recommendations)
 9. [How to Run the Notebooks](#how-to-run-the-notebooks)
+10. [Presentation](#presentation)
 
 ## Executive Summary
 
@@ -37,7 +38,7 @@ The dataset shows material evidence of gender- and age-based disparate impact in
 ## Repository Structure
 
 ```
-project-teamX/
+DEGO_project-team14/
 ├── README.md                          # This file - executive summary & findings
 ├── data/
 │   ├── raw_credit_applications.json   # Original dataset (500+ records)
@@ -49,7 +50,7 @@ project-teamX/
 ├── src/
 │   └── fairness_utils.py              # Reusable fairness metric helpers
 └── presentation/
-    └── [video link or file]           # 6-minute presentation
+    └── VIDEO.md                       # 6-minute presentation video: https://youtu.be/
 ```
 
 ## Team & Roles
@@ -295,16 +296,10 @@ Notebooks must be run **in order** - each notebook builds on the output of the p
 03-privacy-demo.ipynb  →  reads:    data/credit_applications_clean_final.csv
 ```
 
-### Quick Start
 
-```bash
-git clone https://github.com/[your-org]/project-teamX.git
-cd project-teamX
-pip install -r requirements.txt  # if provided
-jupyter notebook notebooks/01-data-quality.ipynb
-```
+## Presentation
 
-> All notebooks have been verified to run without errors from top to bottom when cells are executed in order.
+**Video (Group 14):** [https://youtu.be/wUUoNP9x1sI](https://youtu.be/wUUoNP9x1sI)
 
 ## Technologies Used
 
